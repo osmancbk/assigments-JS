@@ -1,2 +1,2 @@
 # assigments-JS
-My Assigments
+This repo contains assigments-JS for the clarusway course
